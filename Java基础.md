@@ -10,7 +10,7 @@
 
 **反射**：将类的各个组成部分封装为其他对象，这就是反射机制。
 
-![IMG_0692](/Users/gaolijing/Desktop/校招/知识点整理/images/IMG_0692.PNG)
+![IMG_0692](images/IMG_0692.PNG)
 
 ### 2. 反射的优点
 
