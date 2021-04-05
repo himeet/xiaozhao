@@ -153,6 +153,12 @@ public class RelectDemo1 {
 
 https://blog.csdn.net/u012723673/article/details/80682208
 
+2.3 来自好兄弟的多线程资料的分享
+
+https://blog.csdn.net/xiaokang123456kao/article/details/77331878?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase
+
+
+
 ---
 
 ## 三. HashMap & HashTable & ConcurrentHashMap
@@ -210,6 +216,12 @@ https://zhuanlan.zhihu.com/p/50675786
 ## 四. 红黑树
 
 https://www.cnblogs.com/skywang12345/p/3245399.html
+
+## 五. 一些零碎知识点
+
+### 5.1 ==和equals的区别
+
+https://zhuanlan.zhihu.com/p/78395057
 
 
 
