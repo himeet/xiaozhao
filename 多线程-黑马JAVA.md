@@ -107,3 +107,15 @@
 
 #### 2.11.2 线程池的代码实现
 
+## 三. 多线程的几个案例
+
+### 3.1 多线程交替打印ABC的多种实现方法
+
+https://blog.csdn.net/xiaokang123456kao/article/details/77331878?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase
+
+## 四. 多线程中的Lock
+
+### 4.1 可重入锁(ReentrantLock)
+
+ReentrantLock原理：https://blog.csdn.net/fuyuwei2015/article/details/83719444
+
